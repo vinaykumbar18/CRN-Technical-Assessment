@@ -1,0 +1,18 @@
+﻿namespace Product_Management.src.Application.DTOs.Product
+{
+        public class ProductResponseDto
+        {
+            public int Id { get; set; }
+
+            public string ProductName { get; set; }
+
+            public string CreatedBy { get; set; }
+
+            public DateTime CreatedOn { get; set; }
+
+            public string? ModifiedBy { get; set; }
+
+            public DateTime? ModifiedOn { get; set; }
+        }
+    
+}
