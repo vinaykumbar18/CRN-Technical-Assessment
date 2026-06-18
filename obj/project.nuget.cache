@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "70APu0qrQV0=",
+  "dgSpecHash": "z2k03DVhauo=",
   "success": true,
-  "projectFilePath": "D:\\VSCode\\DotNet\\Product Management\\Product Management\\Product Management.csproj",
+  "projectFilePath": "D:\\VSCode\\Product Management\\Product Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinay Kumbar\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\Vinay Kumbar\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
